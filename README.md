@@ -20,8 +20,8 @@ This is My First Webpage..Will get keep on updated
 - [WordPress](https://wordpress.com/ "WordPress - homepage"): WordPress is a 'anyone can use' simplified website publishing program.
 
 ## Contributers
-My Self Sandeep ,Applied Computer Science
-![image] (https://www.lamborghini.com/sites/it-en/files/DAM/it/models_gateway/blocks/special.png)
+Sandeep KV, Applied Computer Science
+![Hosted image](https://www.lamborghini.com/sites/it-en/files/DAM/it/models_gateway/blocks/special.png)
 
  
 
