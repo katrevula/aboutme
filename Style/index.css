@@ -1,0 +1,163 @@
+.redclass{
+    color: red;
+}
+h1{
+
+background-color: red;
+}
+h3{
+
+    background-color: red;
+    }
+.background-picture
+{
+
+    background-image: url(https://lh3.googleusercontent.com/1tx7r_-oYvIPKlblccEK8n9TM9UJj6p_IhWR_A3W5S68_gJY4y5HCya0nzLXhFxdBztTecDXma7NscQyfnLv5zENzfkkNmSL3wAP2cTH-m4CEBGK521RrsxzhES6iHzEKW3xfPqba4zyjH7eBFwLKPLN9hanH3nMLIUdI5Gz5Mbb4IUXdaOAaE6N_vXGIocoQTBeU_0_ngSNK3OaXARiKXj4gCuRSZYp_um9iEVe6LwebSOXp4aH70hpovh-1DfGZGb0neJyqDw4PK1izvbSb0zPhuk64lwkBxrXzsCCot9gbipMvJTytOMMQF3q7ZQknytpokguIHVC4JNxpS-fkooEIqoI-iOghGtJeowrs3ah5UAe1ahaG1ZxzYhleYaeJhMGUwe7nbpvNxxg3V6_2JMXsw92HPuNLq1hme6Lf7m1itcz6JMsl3Qp_ZiRW4_eNRioUxBJKabCxj4PxlwCW2csPWZRv9Gci5NiWKLjS-EXQ-MBm5gv5StCb_Nwqg5Gr-Ue6sE_L40m-a-RK-LH4wbYJFAkn2FGSKsdDG5_vSMQ_arxoiXI46ErTodZnxHFDQ2yjp42FgCGZwQKRKvlLdODIfecLhCPjgDWRWzO-XMw2uUwHX9S0BbOjBw_Gsi4cWyQjl8bUJpVwHOJatl0MpwEw88D-DA=w770-h577-no);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.head1-back
+{
+    background-color: rgb(224,255,255);
+} 
+img {
+    border-radius: 100%;
+  }
+
+#section-title {
+    font-size: 70px;
+    text-align: center;
+    background-color: #c9bfbf
+    
+    }
+.section-navagation {
+        font-size: 40px;
+        text-align: center;
+        background-color: #c9bfbf
+   }
+.Section
+{
+    font-size: 40px;
+    text-align: right;
+    
+}
+    
+    h3
+    {
+        margin: 5;
+        color: #323232;
+       
+    }   
+
+
+.Contact-form
+{
+    text-align: center;
+    position: absolute;
+    background-image: url(https://newevolutiondesigns.com/images/freebies/white-wallpaper-21.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.heading-contact
+{
+    position: absolute;
+    left: 65%;
+    width: 100%;
+    top: 150px;
+    
+}
+#text
+{
+    color: rgb(255, 0, 0);
+    font-size: 200%;
+}
+.form-contact
+{
+    position: absolute;
+    left: 65%;
+    width: 100%;
+    top: 250px;
+    font-size: 25px;
+    
+}
+
+.form-Rec
+{
+    position: absolute;
+    left: 130%;
+    width: 60%;
+    top: 250px;
+    font-size: 25px;
+    
+}
+
+.heading-Rec 
+{
+    position: absolute;
+    left: 130%;
+    width: 100%;
+    top: 150px;
+    
+}
+
+.Rec-form
+{
+    text-align: center;
+    position: absolute;
+    background-image: url(./photos/Sandeep.jfif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.nav_size
+{
+    text-align: center;
+    font-size: 30px;
+
+    
+}
+
+
+
+ul{
+    list-style-type: none;  
+}
+
+.table-align
+{
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+   
+  }
+  
+  .flex-container > div {
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+
+  .weblink-color
+  {
+      text-color: red
+  }
+  header{
+      margin: 1rem;
+      padding: 4rem;
+      background-color: rgb(169, 200, 140);
+      border-radius: 2em;
+    border-style: solid;    
+  }
+
+  footer{
+    margin: 1rem;
+    padding: 2rem;
+    background-color: rgb(169, 200, 140);
+    border-radius: 2em;
+  border-style: solid;    
+}
