@@ -161,3 +161,11 @@ ul{
     border-radius: 2em;
   border-style: solid;    
 }
+
+
+#result
+{
+    background-color: rgb(169, 200, 140);
+    border-radius: 2em;
+  border-style: solid;    
+}
